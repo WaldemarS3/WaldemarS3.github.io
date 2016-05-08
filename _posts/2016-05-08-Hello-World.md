@@ -45,3 +45,7 @@ I got an e-mail from Bob
 > Monday is perfect
 >
 > > Whet would you like to meet?
+
+## Images!
+
+![Adventure](../img/Zufriedenheit.jpg)
